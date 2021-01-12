@@ -1,0 +1,34 @@
+.CoreX
+{
+    width: 50%;
+    height: 600px;
+    background-color: red;
+    margin:10px;
+    display: inline-block;
+    /* float: left; */
+}
+
+.CoreX0
+{
+    /* width: 18%;
+    height: 75px;
+    background-color: blue;
+    margin: 10px;
+    display: inline-block; */
+    display: inline;
+    width: 70%;
+    position: relative;
+    /* float:left; */
+}
+
+.CoreX2
+{
+    width: 18%;
+    height: 75px;
+    background-color: blue;
+    margin: 10px;
+    display: inline-block;
+    /* float:left; */
+}
+
+
