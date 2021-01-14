@@ -58,12 +58,6 @@ class Square extends React.Component
                                 <p> </p>
 
 
-                                6th
-                                <div className='CoreX0'>
-                                        <Pok/>
-                                </div>
-                                <p> </p>
-
                         </div>
 
 

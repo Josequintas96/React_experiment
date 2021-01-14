@@ -1,0 +1,9 @@
+.base
+{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(125, 119, 119);
+    margin:10px;
+    display: inline-block;
+    /* float: left; */
+}

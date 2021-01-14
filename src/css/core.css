@@ -2,7 +2,7 @@
 {
     width: 50%;
     height: 600px;
-    background-color: red;
+    background-color: rgb(159, 151, 151);
     margin:10px;
     display: inline-block;
     /* float: left; */
@@ -31,4 +31,43 @@
     /* float:left; */
 }
 
+.CoreX2_y
+{
+    width: 18%;
+    height: 75px;
+    background-color: yellow;
+    margin: 10px;
+    display: inline-block;
+    /* float:left; */
+}
+
+.CoreX2_g
+{
+    width: 18%;
+    height: 75px;
+    background-color: green;
+    margin: 10px;
+    display: inline-block;
+    /* float:left; */
+}
+
+.CoreX2_r
+{
+    width: 18%;
+    height: 75px;
+    background-color: red;
+    margin: 10px;
+    display: inline-block;
+    /* float:left; */
+}
+
+.CoreX2_rr
+{
+    width: 18%;
+    height: 75px;
+    background-color: rgb(142, 96, 96);
+    margin: 10px;
+    display: inline-block;
+    /* float:left; */
+}
 
